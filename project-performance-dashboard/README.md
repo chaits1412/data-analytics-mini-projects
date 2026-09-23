@@ -35,9 +35,13 @@ During my internship I worked on similar dashboards, tracking project progress, 
 
 ## Screenshots
 
-![Project Performance Overview](screenshots/page-1-overview.png)
+**Page 1 — Project Overview**
 
-*(Page 1 — Project Overview. Additional pages available on request.)*
+![Project Performance Overview](screenshots/page-1-project-overview.png)
+
+**Page 2 — Resource & Employee Overview**
+
+![Resource Overview](screenshots/page-2-resource-overview.png)
 
 ## Tech Stack
 
